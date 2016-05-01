@@ -11,6 +11,6 @@ The bot can handle two commands:
 
 Custom users messages can be filled through the `lib/randomMessages.js` file :)
 
-The api menu is retrieved from the endpoint https://auchan-menus.herokuapp.com/apiauchan/menus.
+The api menu is retrieved from the endpoint https://apiauchan-menus.herokuapp.com/apiauchan/menus.
 
 This project was cloned from https://github.com/howdyai/botkit.
