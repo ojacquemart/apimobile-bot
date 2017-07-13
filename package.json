@@ -39,6 +39,9 @@
     "chatbots",
     "slack"
   ],
+  "engines": {
+    "node": "7.10.1"
+  },
   "author": "ben@xoxco.com",
   "license": "MIT"
 }
